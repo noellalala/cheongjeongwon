@@ -2,7 +2,7 @@
 
 *{margin:0; padding:0;}
 body{font-family: 'Noto Sans KR', sans-serif;
-        letter-spacing:0;}
+        letter-spacing:0; box-sizing: border-box;}
 a{text-decoration:none;}
 li{list-style:none;}
 header{width:1903px;
@@ -211,7 +211,6 @@ nav li:nth-child(1){margin-left:0;}
         margin:0 auto;
         padding-top:40px;}
 .symbol_circle li{width:33.3%;
-        min-width: 250px;
         max-width: 280px;
         aspect-ratio: 1/1;
         float:left;
