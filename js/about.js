@@ -2,7 +2,7 @@ $(document).ready(function(){
     $(window).on("scroll", function () {
         let scroll = $(window).scrollTop();
     
-        console.log(window.scrollY);
+        // console.log(window.scrollY);
 
         if (scrollY >= 100) {
             $(".about").addClass("active");

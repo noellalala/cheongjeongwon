@@ -150,17 +150,16 @@ nav li:nth-child(1){margin-left:0;}
 /* slogan */
 
 .slogan{width:70%;
-        height:410px;
         margin:0 auto;
         border-bottom:1px solid #dddddd;
         opacity: 0;
-        transition: opacity 0.5s ease-in;}
+        transition: opacity 0.5s ease-in;
+        padding:80px 0 80px 0;}
 .slogan h3{font-family: 'Blinker', sans-serif;
         font-weight:500;
         letter-spacing:1px;font-size:36px;
         line-height:46px;
-        text-align:center;
-        padding-top:80px;}
+        text-align:center;}
 .slogan span{width:200px;
         font-size:16px;
         font-weight:400;
@@ -180,17 +179,16 @@ nav li:nth-child(1){margin-left:0;}
 /* symbol */
 
 .symbol{width:100%;
-        height:780px;
         margin:0 auto;
         opacity: 0;
-        transition: opacity 0.5s ease-in;}
+        transition: opacity 0.5s ease-in;
+        padding:80px 0 80px 0;}
 
 .symbol h3{font-family: 'Blinker', sans-serif;
         font-weight:500;
         letter-spacing:1px;font-size:36px;
         line-height:46px;
-        text-align:center;
-        padding-top:80px;}
+        text-align:center;}
 .symbol span{width:300px;
         height:35px;
         font-size:16px;
@@ -208,7 +206,7 @@ nav li:nth-child(1){margin-left:0;}
         text-align:center;
         margin:0 auto;
         padding-top:20px;}
-.symbol_circle{width:810px;
+.symbol_circle{width:60%;
         margin:0 auto;
         padding-top:40px;}
 .symbol_circle li{width:270px;
