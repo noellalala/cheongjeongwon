@@ -263,7 +263,7 @@ nav li:nth-child(1){margin-left:0;}
         display:block;
         margin:0 auto;
         padding-bottom:40px;}
-.biIntro article{width:70%;
+.biIntro article{width:65%;
         text-align: center;
         margin:0 auto;} 
 .biIntro article a{color:#767676;}
@@ -308,7 +308,7 @@ nav li:nth-child(1){margin-left:0;}
         height:510px;
         background-color: #ffffff;
         float:left;
-        margin-left:2%;
+        margin-left:1%;
         border:1px solid #dddddd;
         border-radius:20px;
         opacity: 0;
