@@ -179,6 +179,7 @@ nav li:nth-child(1){margin-left:0;}
 /* symbol */
 
 .symbol{width:100%;
+        height:800px;
         margin:0 auto;
         opacity: 0;
         transition: opacity 0.5s ease-in;
@@ -212,7 +213,7 @@ nav li:nth-child(1){margin-left:0;}
 .symbol_circle li{width:33.3%;
         aspect-ratio: 1/1;
         float:left;
-        border-radius:40%;
+        border-radius:50%;
         opacity: 0;
         transition: opacity 0.5s ease-in;}
 .symbol_circle li.active {
@@ -242,15 +243,14 @@ nav li:nth-child(1){margin-left:0;}
 /* biIntro box1 */
 
 .biIntro{width:100%;
-        height:820px;
-        background-color:#f3f3f3;}
+        background-color:#f3f3f3;
+        padding:80px 0 80px 0;}
 .biIntro h3{font-family: 'Blinker', sans-serif;
         font-weight:500;
         letter-spacing:1px;
         font-size:36px;
         line-height:46px;
-        text-align:center;
-        padding-top:80px;}
+        text-align:center;}
 .biIntro>span{width:300px;
         height:35px;
         font-size:16px;
