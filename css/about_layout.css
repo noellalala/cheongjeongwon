@@ -108,7 +108,6 @@ nav li:nth-child(1){margin-left:0;}
 /*  */
 
 .about{width:70%;
-        height:540px;
         margin:0 auto;
         opacity: 0;
         transition: opacity 0.5s ease-in;}
