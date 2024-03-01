@@ -189,10 +189,10 @@ nav li:nth-child(1){margin-left:0;}
         border-radius:20px;
         margin:0 auto;
         position:relative;}
-.gift_set>img:nth-child(1){width:30%;
+.gift_set>img:nth-child(1){width:25%;
         float:left;
         margin-left:100px;}
-.gift_set>img:nth-child(2){width:30%;
+.gift_set>img:nth-child(2){width:25%;
         float:left;
         margin-left:20px;}
         
