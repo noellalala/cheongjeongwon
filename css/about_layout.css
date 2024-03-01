@@ -179,7 +179,7 @@ nav li:nth-child(1){margin-left:0;}
 /* symbol */
 
 .symbol{width:100%;
-        height:800px;
+        height:600px;
         margin:0 auto;
         opacity: 0;
         transition: opacity 0.5s ease-in;
