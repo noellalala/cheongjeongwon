@@ -209,7 +209,7 @@ nav li:nth-child(1){margin-left:0;}
         padding-top:20px;}
 .symbol_circle{width:50%;
         margin:0 auto;
-        padding-top:40px;}
+        padding-top:20%;}
 .symbol_circle li{width:33.3%;
         /* max-width: 280px; */
         aspect-ratio: 1/1;
